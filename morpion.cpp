@@ -1,5 +1,7 @@
 
 
+#include <iostream>
+
 void affichage_morpion(char** tab, int size) {
 
 	std::cout<<std::endl<<"   ";
